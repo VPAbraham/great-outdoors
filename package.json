@@ -1,0 +1,23 @@
+{
+  "name": "great-outdoors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VPAbraham/great-outdoors.git"
+  },
+  "keywords": [
+    "great-outdoors"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VPAbraham/great-outdoors/issues"
+  },
+  "homepage": "https://github.com/VPAbraham/great-outdoors#readme",
+  "dependencies": {}
+}
